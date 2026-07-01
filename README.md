@@ -7,7 +7,6 @@ A four-layer Interdigital Capacitor (IDC) designed and simulated using **Ansys H
 ## Project Information
 
 - **Project:** 4-Layer IDC Capacitor
-- **Course Slot:** E2
 - **Authors:**
   - Om Patil
   - Krish Kumar Kedia
